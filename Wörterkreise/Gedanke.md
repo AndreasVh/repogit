@@ -1,0 +1,1 @@
+Ergebnis des Denkens, Idee, geistiger Einfall

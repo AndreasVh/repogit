@@ -1,0 +1,1 @@
+zwei Dinge vereinigen, Tiere zur Fortpflanzung, Zucht paarweise [[zusammenbringen]], [[kreuzen]]

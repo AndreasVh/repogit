@@ -1,0 +1,5 @@
+[[ablöschen]]
+[[auslöschen]]
+[[erlöschen]]
+[[verlöschen]]
+[[weglöschen]]

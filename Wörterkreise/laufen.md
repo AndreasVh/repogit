@@ -1,0 +1,1 @@
+etw. läuft bei jm. gut/schlecht

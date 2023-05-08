@@ -1,0 +1,1 @@
+Sachverhalt, der einem anderen vorausgeht und ihn notwendig hervorbringt und wesentlich bestimmt, [[Grund]]

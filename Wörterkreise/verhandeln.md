@@ -1,0 +1,1 @@
+{mit jm. über etw. verhandeln}  mit jm. über eine Beratung führen, unterhandeln, um zu einer Einigung zu kommen

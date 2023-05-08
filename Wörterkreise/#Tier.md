@@ -1,0 +1,6 @@
+-e Ziege, -n
+-s Schaf, -e
+-r Delphín, -e
+-r Frosch, ¨-e
+-e Kröte, -n
+	-e Meeres·schildkröte, -n

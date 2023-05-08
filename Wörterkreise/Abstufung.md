@@ -1,0 +1,1 @@
+[[allmählich]]er, stufenweiser [[Übergang]]

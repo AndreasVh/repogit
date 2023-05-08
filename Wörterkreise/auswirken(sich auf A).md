@@ -1,0 +1,1 @@
+{etw. wirkt sich auf etw. aus}  etw. kommt zur [[Wirkung]] auf etw., hat Folgen

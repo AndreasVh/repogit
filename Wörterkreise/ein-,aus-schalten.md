@@ -1,0 +1,1 @@
+den elektrischen Stromkreis (von etw.) schließen/unterbrechen

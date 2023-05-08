@@ -1,0 +1,1 @@
+einen Sieg über jn./etw. [[erringen]]; [als Sieger aus einem Kampf hervorgehen]

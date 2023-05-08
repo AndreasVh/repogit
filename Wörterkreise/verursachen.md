@@ -1,0 +1,1 @@
+die [[Ursache]] von etw. sein, etw. [[bewirken]]

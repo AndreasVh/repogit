@@ -1,0 +1,1 @@
+nervöse Betriebsamkeit; aufgeregte Eile, mit der etw. geschieht

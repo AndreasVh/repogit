@@ -1,0 +1,1 @@
+{gegen etw.A/jn., an etw.A prallen}  gegen etw.A/jn. heftig [[stoßen]], fallen

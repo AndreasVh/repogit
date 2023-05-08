@@ -1,0 +1,1 @@
+[[Vermittler]], [[Unterhändler]], besonders beim Kauf und Verkauf von Häusern und Grundstücken

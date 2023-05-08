@@ -1,0 +1,1 @@
+{sich an etw.D beteiligen}  an etw.D mitwirken, [[teilnehmen(an D)]], teilhaben

@@ -1,0 +1,1 @@
+jn./etw. an einem bestimmten Ort (in bestimmter Weise) finden, antreffen, wenn man dorthin kommt

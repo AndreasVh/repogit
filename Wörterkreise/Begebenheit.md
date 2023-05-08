@@ -1,0 +1,3 @@
+[[Ereignis]], [[Geschehen]]
+
+[[begeben(sich)]]

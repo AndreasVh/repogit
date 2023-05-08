@@ -1,0 +1,1 @@
+es kommt auf jn./etw. an = es hängt von jm./etw. ab

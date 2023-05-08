@@ -1,0 +1,1 @@
+in seiner [[Ausdehnung]], seinem [[Umfang]] größer machen; erweitern

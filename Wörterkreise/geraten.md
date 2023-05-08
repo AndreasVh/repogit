@@ -1,0 +1,1 @@
+in Not/Gefahr/Schwierigkeit geraten 陷入

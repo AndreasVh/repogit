@@ -1,0 +1,4 @@
+[[ausschlafen]]
+[[durchschlafen]]
+[[einschlafen]]
+[[verschlafen]]

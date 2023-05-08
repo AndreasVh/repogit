@@ -1,0 +1,1 @@
+friert, fror, hat/ist gefroren

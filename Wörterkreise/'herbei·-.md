@@ -1,0 +1,1 @@
+bezeichnet eine [[Annäherung]] an den Ort des Sprechers, des Geschehens

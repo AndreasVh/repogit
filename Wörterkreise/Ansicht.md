@@ -1,0 +1,3 @@
+= [[Meinung]]
+
+der Ansicht/Meinung sein, dass ...

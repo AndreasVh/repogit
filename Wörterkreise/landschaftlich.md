@@ -1,0 +1,2 @@
+1. die Landschaft betreffend, für sie charakteristisch, zu ihr gehörend
+2. [[regional]], die besonderen sprachlichen Eigentümlichkeiten, die Sprechweise der Bewohner eines bestimmten Gebietes betreffend, für diese Sprechweise charakteristisch, zu ihr gehörend

@@ -1,0 +1,1 @@
+abstraktes A ins B wenden

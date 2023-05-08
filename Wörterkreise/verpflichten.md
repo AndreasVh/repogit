@@ -1,0 +1,3 @@
+{jm./etw. verpflichtet sein}
+
+verpflichtet sein, ... zu ... = sollen ...

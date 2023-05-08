@@ -1,0 +1,1 @@
+jmd., der eine [[Sünde]] begangen hat

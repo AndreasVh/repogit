@@ -1,0 +1,1 @@
+ganz in [[Fäulnis]] übergehen, sich [[zersetzen]]

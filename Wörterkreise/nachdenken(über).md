@@ -1,0 +1,1 @@
+{über etw. nachdenken}                                                                                                  sich im Stillen über etw. klar zu werden suchen, etw. gründlich überlegen, erwägen

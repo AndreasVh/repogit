@@ -1,0 +1,1 @@
+verfügen über etw. == haben etw.

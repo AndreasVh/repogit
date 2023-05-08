@@ -1,0 +1,1 @@
+nur eine einzige Deutung zulassend, unmissverständlich, klar und deutlich

@@ -1,0 +1,1 @@
+im Innern ohne Inhalt, unausgefüllt, [[leer]], ausgehöhlt

@@ -1,0 +1,1 @@
+II) {jn./etw. [[abweisen]]/zurückweisen}  mit Entschiedenheit erklären, dass man nicht gewillt ist, etw. zu tun

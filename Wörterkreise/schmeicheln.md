@@ -1,0 +1,1 @@
+jm. übertrieben und nicht ganz aufrichtig Angenehmes sagen, um dessen Gunst zu gewinnen

@@ -1,0 +1,3 @@
+[[Gegensatz]]
+[[Gegenstand]]
+[[Gegenwart]]

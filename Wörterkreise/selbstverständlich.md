@@ -1,0 +1,1 @@
+ohne weitere Erklärung verständlich, sich aus dem natürlichen oder logischen Gang, Zusammenhang der Sachverhalte ergebend

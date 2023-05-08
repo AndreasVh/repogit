@@ -1,0 +1,1 @@
+jd./etw. existiert, ist da, verfügbar

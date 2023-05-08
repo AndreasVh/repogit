@@ -1,0 +1,1 @@
+einfaches Gasthaus mit Übernachtungsmöglichkeit, billige Unterkunft

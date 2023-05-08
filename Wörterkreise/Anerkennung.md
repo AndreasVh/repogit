@@ -1,0 +1,1 @@
+offizielle und öffentliche [[Bestätigung]] 

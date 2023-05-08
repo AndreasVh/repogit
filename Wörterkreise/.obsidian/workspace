@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a522b474d7acfd38",
+    "type": "split",
+    "children": [
+      {
+        "id": "632173a07c1839c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "protentous en..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1674ac8b254e5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "026319ff8aada569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46e582f3aecd42d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f892270f7898fb8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Macht",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 170
+  },
+  "right": {
+    "id": "c6fd5dd5a1248533",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4068a11a77156a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d6cb6068589233",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "protentous en..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a6eee80f9f40c5d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bfe7b62689412e9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "protentous en..md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.48717948717949,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6024013357398965,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "632173a07c1839c6",
+  "lastOpenFiles": [
+    "protentous en..md",
+    "gratulieren.md",
+    "Geschicklichkeit.md",
+    "fangen(sich).md",
+    "zugrunde.md",
+    "ausrüsten.md",
+    "prinzipiell.md",
+    "absolvieren.md",
+    "gewinnen.md",
+    "zustoßen.md"
+  ]
+}

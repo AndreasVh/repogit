@@ -1,0 +1,1 @@
+[[Abweichung]] von der Regel, Sonderfall

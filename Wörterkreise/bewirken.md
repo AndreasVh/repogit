@@ -1,0 +1,1 @@
+etw. [[herbeiführen]], [[verursachen]], [[hervorrufen]], [[erreichen]]

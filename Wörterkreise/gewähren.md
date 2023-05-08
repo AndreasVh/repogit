@@ -1,0 +1,1 @@
+jm. etw.A gewähren/[[gönnen]]

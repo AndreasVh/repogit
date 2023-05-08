@@ -1,0 +1,1 @@
+[X enthält Y], [Y in X enthalten sein]  als Inhalt haben, in etw. [[vorhanden sein]]

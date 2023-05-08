@@ -1,0 +1,1 @@
+IV) {etw. stößt jm. zu}  etw. geschieht, passiert, widerfährt jm.  [[geschehen]] [[passieren]] [[widerfahren]]

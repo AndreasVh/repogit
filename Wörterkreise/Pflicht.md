@@ -1,0 +1,1 @@
+etw., das man tun muss, weil es die Gesellschaft, die Moral, das Gesetz, der Beruf o. Ä. verlangt

@@ -1,0 +1,1 @@
+-tum是中性。只有两个特例，der [[Reichtum]] 和 der [[Irrtum]]。

@@ -1,0 +1,1 @@
+stände/stünde(veraltet)

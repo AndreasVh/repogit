@@ -1,0 +1,1 @@
+[[Verschiedenheit]], [[Abweichung]], [[Differenz]]
